@@ -39,7 +39,7 @@ const icons = {
   box: {
     shape: (
       <React.Fragment>
-      <text>&#119137;</text>
+      <text>&#9839;</text>
       </React.Fragment>
     ),
     viewBox: `0 -25 30 30`,
