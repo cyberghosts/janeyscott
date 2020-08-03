@@ -13,6 +13,8 @@ module.exports = {
     siteTitleAlt: `Janey Scott - Fort McMurray Music Teacher`,
     siteHeadline: `Janey Scott - Fort McMurray Music Teacher`,
     siteUrl: `http://janeyscott.com`,
+    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteLanguage: `en`,
   },
   plugins: [
     {
