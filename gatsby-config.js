@@ -9,7 +9,10 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // Of course you can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
+    siteTitle: `Janey Scott`,
     siteTitleAlt: `Janey Scott - Fort McMurray Music Teacher`,
+    siteHeadline: `Janey Scott - Fort McMurray Music Teacher`,
+    siteUrl: `http://janeyscott.com`,
   },
   plugins: [
     {
@@ -26,9 +29,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
-        short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        name: `Janey Scott - Fort McMurray Music Teacher`,
+        short_name: `Janey Scott`,
+        description: `Janey Scott - Fort McMurray Music Teacher`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
